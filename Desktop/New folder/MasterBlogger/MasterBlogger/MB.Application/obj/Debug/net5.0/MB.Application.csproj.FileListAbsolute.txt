@@ -1,0 +1,17 @@
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\ref\MB.Application.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\DB.Aplication.contracts.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\DB.Aplication.contracts.pdb
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csprojAssemblyReference.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CopyComplete
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb

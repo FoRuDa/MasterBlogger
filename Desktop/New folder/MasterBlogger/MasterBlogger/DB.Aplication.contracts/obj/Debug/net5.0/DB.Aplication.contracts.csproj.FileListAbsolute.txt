@@ -1,0 +1,12 @@
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\bin\Debug\net5.0\DB.Aplication.contracts.deps.json
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\bin\Debug\net5.0\DB.Aplication.contracts.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\bin\Debug\net5.0\ref\DB.Aplication.contracts.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\bin\Debug\net5.0\DB.Aplication.contracts.pdb
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.csprojAssemblyReference.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.AssemblyInfoInputs.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.AssemblyInfo.cs
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.csproj.CoreCompileInputs.cache
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\ref\DB.Aplication.contracts.dll
+C:\Users\FoRuD-pc\Desktop\New folder\MasterBlogger\MasterBlogger\DB.Aplication.contracts\obj\Debug\net5.0\DB.Aplication.contracts.pdb

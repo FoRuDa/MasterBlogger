@@ -1,0 +1,32 @@
+﻿@page
+@model MB.Presentation.MVCCore2.Areas.Admin.Pages.ArticleCategoryManagement.CreateModel
+@{
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left"> ArticleCategories list</h3>
+        
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-12">
+                <form  method="post">
+                    <div  class="text-danger"></div>
+                    <div class="col-md-6 col-sm-12">
+                        <div class="form-group">
+                            <label for="Title" />
+                                <input type="text" name="Title" id="Title" value="" class="form-control" />
+                           
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit"  value="create" class="btn btn-success" />
+                        <a class="btn btn-dark" asp-page="index" asp-area="admin">Backto list</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

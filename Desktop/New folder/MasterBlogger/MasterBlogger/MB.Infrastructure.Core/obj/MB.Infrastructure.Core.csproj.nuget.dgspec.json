@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj",
+        "projectName": "DB.Aplication.contracts",
+        "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj",
+        "packagesPath": "C:\\Users\\FoRuD-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FoRuD-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\MB.Application.csproj",
+        "projectName": "MB.Application",
+        "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\MB.Application.csproj",
+        "packagesPath": "C:\\Users\\FoRuD-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FoRuD-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj"
+              },
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
+        "projectName": "MB.Domain",
+        "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj",
+        "packagesPath": "C:\\Users\\FoRuD-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FoRuD-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj",
+        "projectName": "MB.Infrastructure.Core",
+        "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj",
+        "packagesPath": "C:\\Users\\FoRuD-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FoRuD-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\DB.Aplication.contracts\\DB.Aplication.contracts.csproj"
+              },
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\MB.Application.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Application\\MB.Application.csproj"
+              },
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "projectName": "MB.Infrastructure.EFCore",
+        "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\FoRuD-pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Infrastructure.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FoRuD-pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "C:\\Users\\FoRuD-pc\\Desktop\\New folder\\MasterBlogger\\MasterBlogger\\MB.Domain\\MB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

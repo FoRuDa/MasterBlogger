@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MB.Domain/1.0.0": {
+        "dependencies": {
+          "DB.Aplication.contracts": "1.0.0"
+        },
+        "runtime": {
+          "MB.Domain.dll": {}
+        }
+      },
+      "DB.Aplication.contracts/1.0.0": {
+        "runtime": {
+          "DB.Aplication.contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MB.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DB.Aplication.contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
